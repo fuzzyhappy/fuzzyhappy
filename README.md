@@ -1,5 +1,5 @@
 # Hi ! :D 
-
+I swear I know how to use things other than Java, please believe me.
 <!--
 **fuzzyhappy/fuzzyhappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
