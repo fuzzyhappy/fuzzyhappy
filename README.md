@@ -1,4 +1,4 @@
-# Welcome ! 
+# Welcome✨ 
 
 Hi, I'm Evan! I'm a sophomore in Computer Science at Purdue University. I'm also the Design Lead for Purdue Hackers! When not doing coursework, I like going to hackathons and working on implementations of interesting concepts. Some topics I'm interested in right now are boid simulations, quadtrees, and raytracing!
 <!--
